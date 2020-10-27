@@ -250,6 +250,7 @@ img {
   width: 358px;
   height: 50px;
   padding-left: 16px;
+  color: var(--description-dark-theme-color);
   border: 1px solid rgba(255, 255, 255, 0.3);
   background-color: var(--footer-background-color);
   box-sizing: border-box;
